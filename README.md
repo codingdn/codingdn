@@ -1,4 +1,4 @@
-### Hi there, I'm Dan[website] 👋
+### Hi there, I'm [Dan][website] 👋
 
 ## I'm a Current College Student and Developer
 - 🌱 I’m currently learning the MERN Stack
