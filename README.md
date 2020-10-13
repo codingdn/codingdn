@@ -1,15 +1,12 @@
 ### Hi there, I'm [Dan][website] 👋
 
 ## I'm a Current College Student and Developer
-- 🌱 I’m currently learning the MERN Stack
-- 🥅 2020 Goals: Learn Full Stack Development
 - ⚡ Fun fact: I love to watch documentaries📽️
 
 ### Connect with me:
 
 [<img align="left" alt="personal website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -26,5 +23,4 @@
 
 
 [website]: https://personal-portfolio-b917f.web.app/
-[instagram]: https://www.instagram.com/coding.dan/
 [linkedin]: www.linkedin.com/in/daneil-nguyen
