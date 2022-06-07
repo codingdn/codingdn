@@ -6,5 +6,5 @@ About Me
 - I'm currrently learning mobile development with Flutter and Swift 📲
 - Interested in web development, mobile development, and data science 
 
-Connect with me: 
+Connect with me: \n
 <a href="https://www.linkedin.com/in/daneil-nguyen/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20px" height="20px"/></a>
